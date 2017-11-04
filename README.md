@@ -1,1 +1,1 @@
-![weather][screenshot.png]
+![weather][https://raw.githubusercontent.com/FaridSafi/fbhackday1/master/screenshot.png]
